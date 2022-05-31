@@ -1,6 +1,16 @@
 {
   "sites": [
     {
+      "key": "csp_biubiu_jable",
+      "name": "jable",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/sanaos/yydsysm/main/XBiubiu/jable.json"
+    },
+    {
       "key": "csp_biubiu_av01",
       "name": "AV01",
       "type": 3,
@@ -8,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/AV01.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/sanaos/yydsysm/main/XBiubiu/AV01.txt"
     },
     {
       "key": "LiteApple",
@@ -27,7 +37,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/ysgc.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/sanaos/yydsysm/main/XBiubiu/ysgc.json"
     },
     {
       "key": "csp_biubiu_555",
@@ -37,7 +47,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/555.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/sanaos/mys/main/XBiubiu/555.json"
     },
     {
       "key": "csp_biubiu_lezhu",
@@ -57,7 +67,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/XBiubiu/lezhutv.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/sanaos/yydsysm/main/XBiubiu/lezhutv.json"
     },
     { //列子，自己找Api
       "key": "钟特影视",
@@ -96,7 +106,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/setup/Xiaoh.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/sanaos/yydsysm/main/sub/setup/Xiaoh.json"
     },
     {
       "key": "Auete",
@@ -106,7 +116,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/setup/Auete.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/sanaos/yydsysm/main/sub/setup/Auete.json"
     },
     {
       "key": "Cokemv",
@@ -116,7 +126,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/setup/Cokemv.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/sanaos/yydsysm/main/sub/setup/Cokemv.json"
     },
     {
       "key": "在线之家",
@@ -126,7 +136,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://github.com/drowning1213/maoTV/blob/main/sub/xpath/zxzj.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/sanaos/yydsysm/main/sub/xpath/zxzj.json"
     },
     {
       "key": "789看片",
@@ -136,7 +146,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/xpath/789ba.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/sanaos/yydsysm/main/sub/xpath/789ba.json"
     },
     {
       "key": "Gimy",
@@ -146,7 +156,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/xpath/Gimy.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/sanaos/yydsysm/main/sub/xpath/Gimy.json"
     },
     {
       "key": "乐猪TV",
@@ -156,7 +166,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/xpath/lezhutv.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/sanaos/yydsysm/main/sub/xpath/lezhutv.json"
     },
     {
       "key": "Age动漫",
@@ -166,7 +176,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/sub/xpath/agefans.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/sanaos/yydsysm/main/sub/xpath/agefans.json"
     },
     {
       "key": "push_agent",
@@ -463,5 +473,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/maoTV/main/custom_spider.jar"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/sanaos/yydsysm/main/custom_spider.jar"
 }
