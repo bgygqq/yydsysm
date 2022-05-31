@@ -1,6 +1,15 @@
 {
   "sites": [
     {
+      "key":"csp_Cokemv",
+     "name":"🐼Cokemv(SP)",
+     "type":3,
+     "api":"csp_Cokemv",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1
+    },
+    {
       "key": "csp_biubiu_netflav",
       "name": "Netflav",
       "type": 3,
